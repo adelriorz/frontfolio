@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Consultores Juridico-Fiscal",
+    "imageSrc": "projects/cjf.png",
+    "description": "Webpage for Tax Law firm showcasing services.",
+    "skills": ["Bootstrap", "JavaScript", "HTML", "CSS"],
+    "demo": "https://consultoresjuridicofiscal.vercel.app",
+    "source": "https://www.github.com/adelriorz/consultoresjuridicofiscal"
+  },
+  {
+    "title": "Django Smart notes",
+    "imageSrc": "projects/project.png",
+    "description": "Note application in the web with CRUD operations made in Django.",
+    "skills": ["Django", "Python", "Git"],
+    "demo": "#TBD",
+    "source": "https://github.com/adelriorz/Django-Smart-Notes/tree/main/Django%20Sample/.venv"
+  },
+  {
+    "title": "Reparando Vinculos",
+    "imageSrc": "projects/project.png",
+    "description": "Mental Health client showcasing services.",
+    "skills": ["React", "Bootstrap", "CSS", "HTML", "JavaScript"],
+    "demo": "https://reparandovinculos.vercel.app",
+    "source": "https://github.com/adelriorz/Reparando-Vinculos"
+  },
+  {
+    "title": "Linear Chart csv Django Analyzer",
+    "imageSrc": "projects/project.png",
+    "description": "Django Webapp.",
+    "skills": ["Django", "Python", "Bootstrap", "JavaScript"],
+    "demo": "#TBD",
+    "source": "https://github.com/adelriorz/D-mostration-Web-Django-Python"
+  }
+]

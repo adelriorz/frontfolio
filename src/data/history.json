@@ -1,0 +1,59 @@
+[
+  {
+    "role": "Lead IT Technician",
+    "organisation": "Infinity Electro-Optics",
+    "startDate": "Feb 2023",
+    "endDate": "Present",
+    "experiences": ["Made Military-grade cameras", "Automated tasks and build API's."],
+    "imageSrc": "history/company.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Vuram",
+    "startDate": "Apr 2022",
+    "endDate": "Jan  2023",
+    "experiences": ["Developped apps for financial reporting", "Configured modules APIs and libraries"],
+    "imageSrc": "history/company.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Tech Mahindra",
+    "startDate": " ug 2021",
+    "endDate": "Apr 2022",
+    "experiences": ["Payment methods integration in Salesforce Cloud", "API’s integration."],
+    "imageSrc": "history/company.png"
+  },
+  {
+    "role": "Project Manager",
+    "organisation": "Argano",
+    "startDate": "April 2021",
+    "endDate": "Nov 2021",
+    "experiences": [
+      "Product management over 3 projects",
+      "Managed financial forecast and budget for 5 projects."
+    ],
+    "imageSrc": "history/company.png"
+  },
+  {
+    "role": "Intern Software Engineer",
+    "organisation": "Amdocs",
+    "startDate": "April 2021",
+    "endDate": "Nov 2021",
+    "experiences": [
+      "Process automations",
+      "Creation of SOP's."
+    ],
+    "imageSrc": "history/company.png"
+  },
+  {
+    "role": "Product Owner",
+    "organisation": "Kueski",
+    "startDate": "April 2021",
+    "endDate": "Nov 2021",
+    "experiences": [
+      "Reduced time-to-hire by 77,2%",
+      "Brought team to data driven mindset."
+    ],
+    "imageSrc": "history/company.png"
+  }
+]
